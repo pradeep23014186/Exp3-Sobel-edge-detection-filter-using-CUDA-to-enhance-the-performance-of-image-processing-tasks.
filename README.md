@@ -1,8 +1,8 @@
 # Exp3-Sobel-edge-detection-filter-using-CUDA-to-enhance-the-performance-of-image-processing-tasks.
-<h3>NAME : KRISHNA PRASAD S</h3>
-<h3>REGISTER NO : 212223230108</h3>
+<h3>NAME : PRADEEP KUMAR G</h3>
+<h3>REGISTER NO : 212223230150</h3>
 <h3>EX. NO : 3</h3>
-<h3>DATE : 29/10/25</h3>
+<h3>DATE : 25/09/2025</h3>
 <h1> <align=center> Sobel edge detection filter using CUDA </h3>
   Implement Sobel edge detection filtern using GPU.</h3>
 Experiment Details:
